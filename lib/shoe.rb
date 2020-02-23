@@ -1,4 +1,4 @@
-class Book
+class Shoe
   attr_accessor :properties, :color, :size, :material, :condition
   attr_reader :new
 
