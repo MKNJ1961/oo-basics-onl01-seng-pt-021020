@@ -38,7 +38,7 @@
       @condition
     end
 
-    def cobble(cpndition = "new")
+    def cobble(condition = "new")
       @cobble
       puts "Your shoe is good as new"
     end
