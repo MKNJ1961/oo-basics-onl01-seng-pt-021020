@@ -15,7 +15,11 @@
     end
 
     def color
-      @def color
+      @def color= color
+    end
+
+    def color
+      @color
     end
   end
 
