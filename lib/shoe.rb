@@ -8,6 +8,7 @@
     end
 
     def properties
+      def initialize(properties)
       @properties = properties
     end
     def properties
