@@ -2,7 +2,7 @@ class Book
   def initialize(title)
   end
 
-  def initialize(title)
+  def ititle
   end
 
 end
