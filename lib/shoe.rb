@@ -6,7 +6,7 @@ class Book
     @new = new
   end
 
-  def cobble 
+  def cobble
     puts "Your shoe is good as new"
   end
 end
