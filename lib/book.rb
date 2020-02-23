@@ -8,9 +8,8 @@ class Book
   end
 
   def author=(author)
-    def initialize = author
+    def author = author
   end
-
   def author
     @author
   end
