@@ -3,7 +3,7 @@
       @shoe = shoe
     end
 
-    def sho
+    def shoe
       @shoe
     end
 
