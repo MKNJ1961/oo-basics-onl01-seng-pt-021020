@@ -37,4 +37,3 @@ class Book
     @turn_page
   end
 end
-
