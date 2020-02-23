@@ -7,7 +7,7 @@
       @brand
     end
 
-    def color(color)
+    def color=(color)
       @color = color
     end
 
