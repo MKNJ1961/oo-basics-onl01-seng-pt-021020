@@ -13,6 +13,10 @@
     def properties
       @properties
     end
+
+    def color
+      @def color
+    end
   end
 
 
