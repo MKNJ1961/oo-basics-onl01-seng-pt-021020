@@ -3,6 +3,10 @@
       @shoe = shoe
     end
 
+    def sho
+      @shoe
+    end
+
     def properties
       @properties = properties
     end
