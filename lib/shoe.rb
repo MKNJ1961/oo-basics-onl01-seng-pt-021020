@@ -1,10 +1,10 @@
   class Shoe
-    def initialize(shoe)
-      @shoe = shoe
+    def initialize(brand)
+      @brand = brand
     end
 
-    def shoe
-      @shoe
+    def brand
+      @brand
     end
 
     def properties
