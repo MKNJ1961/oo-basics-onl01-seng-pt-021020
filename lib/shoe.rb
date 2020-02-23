@@ -7,14 +7,6 @@
       @brand
     end
 
-    def properties
-      def initialize(properties)
-      @properties = properties
-    end
-    def properties
-      @properties
-    end
-
     def color
       @color = color
     end
